@@ -20,3 +20,4 @@ Carpetas:
 - sens_local: Contiene la página Web realizada
 - esp32_sensors: Contiene diversas pruebas realizadas con el dispositivo ESP32 (descartado para el proyecto como se detalla en la memoria)
 - memoria: Contiene la memoria del proyecto
+- presentación: Contiene la presentación de la defensa del TFM
